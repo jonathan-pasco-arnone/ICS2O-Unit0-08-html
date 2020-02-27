@@ -1,0 +1,13 @@
+body {
+    background-image: url(./images/randompic.jpg);
+    color:yellow;
+}
+ol {
+    background-color: green;
+    font-family: italic;
+    text-align: center
+}
+table,th,td {
+    border: 1px solid green;
+   border-collapse: collapse;
+}
